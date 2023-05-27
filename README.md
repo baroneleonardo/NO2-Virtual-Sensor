@@ -1,2 +1,2 @@
-# NO2-Virtual-Sensor-Estimator
+# NO2-Virtual-Sensor
 "Pattern Recognition and Machine Learning" project repository
