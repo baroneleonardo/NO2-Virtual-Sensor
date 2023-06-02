@@ -1,13 +1,13 @@
 # NO2-Virtual-Sensor
 "Pattern Recognition and Machine Learning" project repository.
 ### Group members:
-[Leonardo Barone](https://github.com/baroneleonardo)
-[Riccardo Lazzarini](https://github.com/richilazza99)
+[Leonardo Barone](https://github.com/baroneleonardo), 
+[Riccardo Lazzarini](https://github.com/richilazza99), 
 [Beatrice Sisti](https://github.com/beasisti)
 
 ### Abstract
 Our aim is to predict NO2 concentrations, using a dataset collected from sensors.
-We employ feature selection techniques to identify the most influential variables related to NO2 concentration. By reducing the dimensionality of the dataset, we aim to enhance the accuracy and interpretability of the predictive models. Subsequently, we apply three popular machine learning algorithms: Random Forest, Support Vector Machine (SVM) and Neural Network. Through comprehensive experimentation and evaluation, we compare the performance of these machine learning models in accurately predicting NO2 concentrations
+We employ feature selection techniques to identify the most influential variables related to NO2 concentration. By reducing the dimensionality of the dataset, we aim to enhance the accuracy and interpretability of the predictive models. Subsequently, we apply three popular machine learning algorithms: Random Forest, Support Vector Machine (SVM) and Neural Network. Through comprehensive experimentation and evaluation, we compare the performance of these machine learning models in accurately predicting NO2 concentrations.
 
 ### Files: 
   - *"DataExploration.ipynb"*,contains the data exploration of the dataset. 
