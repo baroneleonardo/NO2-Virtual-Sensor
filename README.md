@@ -12,7 +12,7 @@ We employ feature selection techniques to identify the most influential variable
 ### Files: 
   - *"DataExploration.ipynb"*,contains the data exploration of the dataset. 
   - *"RandomForest_SVM.ipynb"* contains the Random Forest and SVM algorithms. 
-  - *"NeuralNetwork.ipynb"* contains the mplementation of a FFNN, a network tuning and a K-fold algorithm. 
+  - *"NeuralNetwork.ipynb"* contains the implementation of a FFNN, a network tuning and a K-fold algorithm. 
   - *"FeatureSelection.ipynb"* contains the study of the features selection.
   
 ### Dataset:
